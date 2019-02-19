@@ -1,1 +1,1 @@
-web: gunicorn farmform.wsgi
+web: gunicorn first_project.wsgi
